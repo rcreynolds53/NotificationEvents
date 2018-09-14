@@ -1,0 +1,11 @@
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\bin\Debug\netcoreapp2.0\SendNotificationsTest.deps.json
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\bin\Debug\netcoreapp2.0\SendNotificationsTest.runtimeconfig.json
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\bin\Debug\netcoreapp2.0\SendNotificationsTest.runtimeconfig.dev.json
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\bin\Debug\netcoreapp2.0\SendNotificationsTest.dll
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.csprojResolveAssemblyReference.cache
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.csproj.CoreCompileInputs.cache
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.AssemblyInfoInputs.cache
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.AssemblyInfo.cs
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\bin\Debug\netcoreapp2.0\SendNotificationsTest.pdb
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.dll
+c:\users\macbookpro\source\repos\SendNotificationsTest\SendNotificationsTest\obj\Debug\netcoreapp2.0\SendNotificationsTest.pdb
